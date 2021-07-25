@@ -1,3 +1,15 @@
+body {
+    font-family: 'Zen Loop', cursive;
+}
+
 header {
     padding: 40px;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
 }
