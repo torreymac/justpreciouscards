@@ -13,3 +13,28 @@ h1 {
 p {
     font-family: 'Open Sans Condensed', sans-serif;
 }
+
+a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.home-link {
+    color: #C78197;
+}
+
+a.about-link {
+    color: #E98E91
+}
+
+a.gallery-link {
+    color: #FFA085
+}
+
+a.contact-link {
+    color: #FFB977
+}
+
+a.blog-link {
+    color: #FFD76D;
+}
