@@ -1,21 +1,23 @@
 body {
     font-family: 'Zen Loop', cursive;
+    font-size: 1.3em;
 }
 
 header {
     padding: 40px;
 }
 
-h1 {
+header h1 {
     font-size: 3.5em;
 }
+
 
 p {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
 a:hover {
-    font-weight: bold;
+    font-weight: 900;
     text-decoration: none;
 }
 
@@ -38,3 +40,15 @@ a.contact-link {
 a.blog-link {
     color: #FFD76D;
 }
+
+.contact-button {
+    background-color: #FFB977;
+    font-weight: bold;
+    color: white;
+}
+
+.form-control:focus {
+    border: 2px solid #FFB977;
+    box-shadow: 0 0 0 0.2rem rgba(255, 185, 119, 0.4);
+}
+
