@@ -64,3 +64,92 @@ a.blog-link {
 footer {
     padding: 20px;
 }
+
+li a.active {
+    font-weight: bold;
+}
+
+.btn-purple {
+    color: #C78197;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #C78197;
+  }
+  
+  .btn-purple:hover {
+    color: #fff;
+    background-color: #C78197;
+    border-color: #C78197;
+  }
+
+  .btn-pink {
+    color: #E98E91;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #E98E91;
+  }
+  
+  .btn-pink:hover {
+    color: #fff;
+    background-color: #E98E91;
+    border-color: #E98E91;
+  }
+
+  .btn-peach {
+    color: #FFA085;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #FFA085;
+  }
+  
+  .btn-peach:hover {
+    color: #fff;
+    background-color: #FFA085;
+    border-color: #FFA085;
+  }
+
+  .btn-orange {
+    color: #FFB977;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #FFB977;
+  }
+  
+  .btn-orange:hover {
+    color: #fff;
+    background-color: #FFB977;
+    border-color: #FFB977;
+  }
+
+  .btn-yellow {
+    color: #FFD76D;
+    font-weight: bold;
+    background-color: #fff;
+    border-color: #FFD76D;
+  }
+  
+  .btn-yellow:hover {
+    color: #fff;
+    background-color: #FFD76D;
+    border-color: #FFD76D;
+  }
+
+  .card-purple {
+    border: 1px solid #C78197;
+  }
+
+  .card-pink {
+    border: 1px solid #E98E91;
+  }
+
+  .card-peach {
+    border: 1px solid #FFA085;
+  }
+
+  .card-orange {
+    border: 1px solid #FFB977;
+  }
+
+  .card-yellow {
+    border: 1px solid #FFD76D;
+  }
