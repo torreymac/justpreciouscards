@@ -21,6 +21,15 @@ a:hover {
     text-decoration: none;
 }
 
+h1 a {
+    color: black;
+}
+
+h1 a:hover {
+    color: black;
+    font-weight: normal;
+}
+
 a.home-link {
     color: #C78197;
 }
@@ -52,3 +61,6 @@ a.blog-link {
     box-shadow: 0 0 0 0.2rem rgba(255, 185, 119, 0.4);
 }
 
+footer {
+    padding: 20px;
+}
